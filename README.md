@@ -14,14 +14,14 @@
 <p align="left">
 </p>-->
 
+<div align="center">
 <h3 align="left">Languages and Tools:</h3>
 <br/>
-<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,kotlin,vscode,atom"/><br>
     <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,css,figma,html,mysql,tailwind,git,github,django"/>
   </a>
 </div>
-<div align="center">
+<div align="center" margin-top='10px'> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sub-mist&" alt="sub-mist" /></p>
 </div>
