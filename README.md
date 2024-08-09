@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sub-mist&label=Profile%20views&color=0e75b6&style=flat" alt="sub-mist" /> </p>
 
-- 🌱 I’m currently learning: **Django,React**
+- 🌱 I’m currently learning: **Django,Machine Learning**
 
-- ⚡ Fun Fact: **Am I introverted becuase I'm a quiet person? Or am I a quiet person becuase I'm introverted?**
+- ⚡ Fun Fact: **Am I an introvert because I'm a quiet person, or am I a quiet person because I'm an introvert?**
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,9 +17,9 @@
 <div align="left">
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,kotlin"/><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,tailwind,django"/>
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,atom,mysql,git,github"/>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript"/><br>
+    <img src="https://skillicons.dev/icons?i=django,flask,bootstrap,tailwind,css,figma,html"/>
+    <img src="https://skillicons.dev/icons?i=sklearn,mysql,mongodb,vscode,atom,git,github"/>
   </a>
 </div>
 <div align='center'> 
